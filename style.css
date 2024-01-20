@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(128, 128, 128, 0.353);
+}
+
+.container-fluid{
+    background-color: #679AA3;
+    padding: 10px;
+    margin-top: -10px;
+    margin-bottom: -7px;
+}
+
+.nav-link{
+    color: white;
+    font-size: large;
+}
+
+.collapse .navbar-collapse{
+    color: white;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.carousel-item .active span{
+    margin: 5px;
+}
+
+.custom-icon{
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    margin-right: 20px;
+    cursor: pointer;
+}
